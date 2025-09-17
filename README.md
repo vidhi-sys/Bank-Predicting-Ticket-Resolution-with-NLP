@@ -96,10 +96,9 @@ Then, point your browser to **`http://localhost:5000`** to interact with the pre
 -----
 
 ## User Interface
-
-\<div align="center"\>
-\<img src="[https://github.com/vidhi-sys/Bank-Predicting-Ticket-Resolution-with-NLP/blob/main/image.png](https://www.google.com/search?q=https://github.com/vidhi-sys/Bank-Predicting-Ticket-Resolution-with-NLP/blob/main/image.png)" alt="A screenshot of the bank complaint prediction web interface." width="500"\>
-\</div\>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vidhi-sys/Bank-Predicting-Ticket-Resolution-with-NLP/main/image.png" alt="A screenshot of the bank complaint prediction web interface." width="500">
+</div>
 
 Here's a glimpse of the web interface where users can submit their bank complaints for prediction.
 
