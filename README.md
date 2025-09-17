@@ -27,8 +27,7 @@ Here are the core technologies powering the Bank Complaint Prediction System:
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3882C7?style=for-the-badge&logo=matplotlib&logoColor=white">
-<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+
 
 -----
 
